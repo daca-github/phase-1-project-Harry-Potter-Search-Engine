@@ -1,0 +1,39 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "ancestry": "Half-Blood",
+            "house": "Gryffindor",
+            "image": "https://ik.imagekit.io/hpapi/harry.jpg" 
+        },
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "ancestry": "Half-Blood",
+            "house": "Gryffindor",
+            "image": "https://ik.imagekit.io/hpapi/harry.jpg" 
+        },
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "ancestry": "Half-Blood",
+            "house": "Gryffindor",
+            "image": "https://ik.imagekit.io/hpapi/harry.jpg" 
+        },
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "ancestry": "Half-Blood",
+            "house": "Gryffindor",
+            "image": "https://ik.imagekit.io/hpapi/harry.jpg" 
+        },
+        {
+            "id": 1,
+            "name": "Harry Potter",
+            "ancestry": "Half-Blood",
+            "house": "Gryffindor",
+            "image": "https://ik.imagekit.io/hpapi/harry.jpg" 
+        }
+    ]
+}
